@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ennymoraes
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS, JS, Angular.
+- 🌱 I’m currently learning HTML, CSS, JS and Angular.
 - 📫 How to reach me -> linkedin.com/in/ennymoraes/
 
 <!---
