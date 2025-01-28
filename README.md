@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Enny Moraes and I'm a Developer, from Brazil</p>
+<p align="left">My name is Enny Moraes and I'm a Developer from Brazil</p>
 
 ###
 
